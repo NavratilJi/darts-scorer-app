@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/darts-scorer-app/static/css/main.423a44b5.css",
-    "main.js": "/darts-scorer-app/static/js/main.9eb05df8.js",
+    "main.css": "/darts-scorer-app/static/css/main.1d770f77.css",
+    "main.js": "/darts-scorer-app/static/js/main.1eb14cbd.js",
     "index.html": "/darts-scorer-app/index.html",
-    "main.423a44b5.css.map": "/darts-scorer-app/static/css/main.423a44b5.css.map",
-    "main.9eb05df8.js.map": "/darts-scorer-app/static/js/main.9eb05df8.js.map"
+    "main.1d770f77.css.map": "/darts-scorer-app/static/css/main.1d770f77.css.map",
+    "main.1eb14cbd.js.map": "/darts-scorer-app/static/js/main.1eb14cbd.js.map"
   },
   "entrypoints": [
-    "static/css/main.423a44b5.css",
-    "static/js/main.9eb05df8.js"
+    "static/css/main.1d770f77.css",
+    "static/js/main.1eb14cbd.js"
   ]
 }
