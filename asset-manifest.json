@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/darts-scorer-app/static/css/main.cafb490c.css",
+    "main.js": "/darts-scorer-app/static/js/main.09da048d.js",
+    "index.html": "/darts-scorer-app/index.html",
+    "main.cafb490c.css.map": "/darts-scorer-app/static/css/main.cafb490c.css.map",
+    "main.09da048d.js.map": "/darts-scorer-app/static/js/main.09da048d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cafb490c.css",
+    "static/js/main.09da048d.js"
+  ]
+}
