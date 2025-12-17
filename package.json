@@ -2,7 +2,7 @@
   "name": "darts-scorer-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://NavratilJi.github.io/darts-scorer-app",
+  "homepage": "https://navratilji.github.io/darts-scorer-app",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
